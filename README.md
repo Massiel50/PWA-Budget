@@ -11,4 +11,5 @@ of the account.
  magically conjured this whole app :D
  
  The app is not very esthetically pleasing and that is something I do plan to add to this project. Splash some color on it. 
- While I prefer materialize, I will be using bootstrap for this project. I will also be deploying the app onto Heroku.
+ While I prefer materialize, I will be using bootstrap for this project. I would also like to create a database to store previous 
+ data onto it as a back up. I also hope to be deploying the app onto Heroku.
